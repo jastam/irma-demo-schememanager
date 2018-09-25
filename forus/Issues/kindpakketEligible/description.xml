@@ -8,7 +8,7 @@
 		<nl></nl>
 	</ShortName>
 	<SchemeManager>irma-demo</SchemeManager>
-	<IssuerID>Forus</IssuerID>
+	<IssuerID>forus</IssuerID>
 	<CredentialID>kindpakketEligible</CredentialID>
 	<Description>
 		<en>If you are eligible for kindpakket.</en>

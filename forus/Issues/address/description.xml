@@ -8,7 +8,7 @@
 		<nl>Adres</nl>
 	</ShortName>
 	<SchemeManager>irma-demo</SchemeManager>
-	<IssuerID>Forus</IssuerID>
+	<IssuerID>forus</IssuerID>
 	<CredentialID>address</CredentialID>
 	<Description>
 		<en>Your public address.</en>
