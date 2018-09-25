@@ -1,0 +1,32 @@
+<IssueSpecification version="4">
+	<Name>
+		<en>Kindpakket eligible</en>
+		<nl></nl>
+	</Name>
+	<ShortName>
+		<en>Kindpakket eligible</en>
+		<nl></nl>
+	</ShortName>
+	<SchemeManager>irma-demo</SchemeManager>
+	<IssuerID>Forus</IssuerID>
+	<CredentialID>kindpakketEligible</CredentialID>
+	<Description>
+		<en>If you are eligible for kindpakket.</en>
+		<nl>Of u in aanmerking komt voor kindpakket</nl>
+	</Description>
+
+
+
+	<Attributes>
+		<Attribute id="kindpakketEligible">
+			<Name>
+				<en>Eligible</en>
+				<nl></nl>
+			</Name>
+			<Description>
+				<en>Your are eligible</en>
+				<nl>U komt in aanmerking</nl>
+			</Description>
+		</Attribute>
+	</Attributes>
+</IssueSpecification>
