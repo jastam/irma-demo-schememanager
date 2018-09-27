@@ -20,12 +20,12 @@
 	<Attributes>
 		<Attribute id="kindpakketEligible">
 			<Name>
-				<en>Eligible</en>
-				<nl>In aanmerking</nl>
+				<en>Eligible for kindpakket</en>
+				<nl>Recht op kindpakket</nl>
 			</Name>
 			<Description>
-				<en>Your are eligible</en>
-				<nl>U komt in aanmerking</nl>
+				<en>Eligible for kindpakket</en>
+				<nl>Recht op kindpakket</nl>
 			</Description>
 		</Attribute>
 		<Attribute id="numChildren">
