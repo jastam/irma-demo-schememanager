@@ -1,11 +1,11 @@
 <IssueSpecification version="4">
 	<Name>
 		<en>Kindpakket eligible</en>
-		<nl></nl>
+		<nl>Recht op kindpakket</nl>
 	</Name>
 	<ShortName>
 		<en>Kindpakket eligible</en>
-		<nl></nl>
+		<nl>Recht op kindpakket</nl>
 	</ShortName>
 	<SchemeManager>irma-demo</SchemeManager>
 	<IssuerID>forus</IssuerID>
@@ -21,7 +21,7 @@
 		<Attribute id="kindpakketEligible">
 			<Name>
 				<en>Eligible</en>
-				<nl></nl>
+				<nl>In aanmerking</nl>
 			</Name>
 			<Description>
 				<en>Your are eligible</en>
